@@ -1,1 +1,1 @@
-# Management System of components and spare parts for drones
+# Management system of components and spare parts for drones
